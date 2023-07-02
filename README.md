@@ -1,5 +1,5 @@
-# [My Bots](https://dsc.gg/prannoygamer)
-# :beginner: [Astro Boy](https://dsc.gg/astroboy) :beginner: 
+# [My Bots](https://dsc.gg/astr0dev)
+# :beginner: [Astro Boy](https://dsc.gg/astr0boy) :beginner: 
 
 ### Advanced Discord Bot With Slash Commands!
 
@@ -21,8 +21,8 @@
 
 ### *Prefix*:- `a!`
 
-### *Support Server*:- [Click Here](https://dsc.gg/prannoygamer) 
-### *Invite Link*:- [Click Here](https://dsc.gg/astroboy)
+### *Support Server*:- [Click Here](https://dsc.gg/astr0dev) 
+### *Invite Link*:- [Click Here](https://dsc.gg/astr0boy)
 
 
 # :beginner: [Astro Music](https://dsc.gg/astr0music) :beginner: 
@@ -40,5 +40,5 @@
 
 ### *Prefix*:- `am!`
 
-### *Support Server*:- [Click Here](https://dsc.gg/prannoygamer) 
+### *Support Server*:- [Click Here](https://dsc.gg/astr0dev) 
 ### *Invite Link*:- [Click Here](https://dsc.gg/astr0music)
